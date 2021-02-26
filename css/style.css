@@ -14,7 +14,7 @@
 .contenitore{
   width: 80%;
   height: auto;
-  margin-left: 10%;
+  margin: 0 auto;
 }
 
 header, main, footer{
@@ -30,7 +30,6 @@ margin-bottom: 10px;
 .logo{
   height: 100px;
   background-color: aqua;
-
 }
 
 .menu{
@@ -41,6 +40,7 @@ margin-bottom: 10px;
 .immagine{
   height: 300px;
   background-color: brown;
+  
 }
 
     /* / HEADER  */
@@ -63,20 +63,20 @@ margin-bottom: 10px;
 }
 
 .sinistra{
-  width: 23%;
+  width: 20%;
   height: 98%;
   background-color: darkblue;
 }
 
 .destra{
-  width: 23%;
+  width: 20%;
   height: 98%;
   background-color: darkmagenta;
 }
 
 .centro{
   height: 98%;
-  width: 50%;
+  width: 56%;
   background-color: darkgreen;
   margin: 0 2%;
 }
