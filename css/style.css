@@ -11,6 +11,12 @@
   clear: both;
 }
 
+.contenitore{
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
+}
+
 header, main, footer{
   width: 100%;
   margin-bottom: 10px; 
@@ -50,6 +56,7 @@ margin-bottom: 10px;
   height: 350px;
   
 }
+
 
 .sinistra, .centro, .destra{
   float: left;
